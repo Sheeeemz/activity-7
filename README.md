@@ -1,3 +1,3 @@
 # activity-7
-username = shem
-password = 123
+# username = shem
+# password = 123
